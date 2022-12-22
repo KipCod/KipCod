@@ -1,4 +1,8 @@
-### Hi there 👋
+### JEONG EUI SEOG
+
+#### ABOUT
+
+#### PUBLICATIONS
 
 <!--
 **KipCod/KipCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
